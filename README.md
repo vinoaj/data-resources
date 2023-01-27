@@ -1,5 +1,10 @@
 # Data & Data Engineering Resources
 
+## Architectures
+
+### Data Mesh
+- [Data Mesh Architecture](https://www.datamesh-architecture.com/)
+
 ## SQL Parsers
 - [SQLGlot](https://github.com/tobymao/sqlglot): "_a no dependency Python SQL parser, transpiler, and optimizer. It can be used to format SQL or translate between different dialects like Presto, Spark, and Hive. It aims to read a wide variety of SQL inputs and output syntatically correct SQL in the targeted dialects_"
 - [More SQL Parsing](https://github.com/klahnakoski/mo-sql-parsing): "_convert SQL queries to JSON-izable parse trees_"
