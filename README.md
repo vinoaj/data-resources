@@ -12,3 +12,9 @@
 
 ## Privacy & Obfuscation 🔐
 - [PipelineDP](https://github.com/OpenMined/PipelineDP): PipelineDP is a Python framework for applying differentially private aggregations to large datasets using batch processing systems such as Apache Spark, Apache Beam, and more. Developed by [OpenMined](https://www.openmined.org/) and Google
+
+## Datasets
+
+### Streaming
+- [Awesome public streaming datasets](GitHub - bytewax/awesome-public-real-time-datasets: A list of publicly available datasets with real-time data)
+- [Mockingbird: mock streaming data generator](GitHub - tinybirdco/mockingbird: Mockingbird is a mock streaming data generator)
